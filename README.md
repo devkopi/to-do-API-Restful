@@ -14,7 +14,7 @@ My recommendation is to use Postman to test the API. If you don't know how to ge
  "title": "My first task",
  "description": "Call my puppy"
  }
-
+ ```
 - **Answer**:
  ```json
  {
@@ -39,7 +39,7 @@ By ID
 
 # ⚙ Update a Task by ID
 
-- **Method:** PUT /api/tasks/{id}
+- **Method:** `PUT /api/tasks/{id}`
 - **Description:** Updates an existing task by its ID.
 - **Body:**
  ```json
@@ -48,7 +48,7 @@ By ID
  "description": "Updated description",
  "completed": true
  }
-
+ ```
 - **Answer:**
  ```json
  {
@@ -62,7 +62,7 @@ By ID
  ```
 # ❌ Delete a Task by ID
 
-- **Method:** DELETE /api/tasks/{id}
+- **Method:** `DELETE /api/tasks/{id}`
 - **Description:** Deletes a specific task by its ID.
 
 # 🌐 How to Run the Project
