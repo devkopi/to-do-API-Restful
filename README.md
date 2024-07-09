@@ -3,7 +3,7 @@
 This is a RESTful API to manage/create/modify/delete tasks. Personally developed and it is the first API.
 
 # ✨ Recommendation
-My recommendation is to use Postman to test the API. If you don't know how to get around Postman, you can watch videos which explain it in detail.
+My recommendation is to use [Postman](https://www.postman.com/) to test the API. If you don't know how to get around Postman, you can watch videos which explain it in detail.
 
 # 🔋 Create a new task
 
