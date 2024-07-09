@@ -13,7 +13,7 @@ Here I present a "Small Table" with the information in a summarized way that you
 - `PUT (METHOD) | "/api/tasks/:id" | Update an existing task`
 - `DELETE (METHOD) | "/api/tasks/:id" | Delete a specific task by ID`
 
-# 🔋 Create a new task
+## 🔋 Create a new task
 
 - **Method**: `POST /api/tasks`
 - **Body**:
@@ -34,7 +34,7 @@ Here I present a "Small Table" with the information in a summarized way that you
  "__v": 0
  }
  ```
-# 🥇 Get All Tasks
+## 🥇 Get All Tasks
 
 - **Method**: `GET /api/tasks`
 - **Description**: Obtains all the tasks that have been Posted.
@@ -45,7 +45,7 @@ By ID
 - **Method**: `GET /api/tasks/{id}`
 - **Description**: Obtains information about a Specific task.
 
-# ⚙ Update a Task by ID
+## ⚙ Update a Task by ID
 
 - **Method:** `PUT /api/tasks/{id}`
 - **Description:** Updates an existing task by its ID.
@@ -68,7 +68,7 @@ By ID
  "__v": 0
  }
  ```
-# ❌ Delete a Task by ID
+## ❌ Delete a Task by ID
 
 - **Method:** `DELETE /api/tasks/{id}`
 - **Description:** Deletes a specific task by its ID.
