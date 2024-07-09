@@ -74,3 +74,6 @@ By ID
 3. Configure the .env | Copy the `.env-example` to the `.env` file and add your database URI
 
 4. Start the project ``` node src/server.js ```
+
+# ⚖ README.md in Spanish Here
+[README-es.md](README-es.md)
