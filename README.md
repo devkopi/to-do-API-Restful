@@ -1,9 +1,17 @@
-# 🎈 to-do API
+# 🎈 to-do API RESTful
 
 This is a RESTful API to manage/create/modify/delete tasks. Personally developed and it is the first API.
 
 # ✨ Recommendation
 My recommendation is to use [Postman](https://www.postman.com/) to test the API. If you don't know how to get around Postman, you can watch videos which explain it in detail.
+
+# 🔌 EndPoints
+Here I present a "Small Table" with the information in a summarized way that you can see in the following statements. Clearly there you will find the information in a more complete and more specific way.
+- `POST (METHOD) | "/api/tasks" | Create a new task`
+- `GET (METHOD) | "/api/tasks" | Get all tasks`
+- `GET (METHOD) | "/api/tasks/:id" | Get a specific task by ID`
+- `PUT (METHOD) | "/api/tasks/:id" | Update an existing task`
+- `DELETE (METHOD) | "/api/tasks/:id" | Delete a specific task by ID`
 
 # 🔋 Create a new task
 
